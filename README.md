@@ -20,7 +20,7 @@ Tax distribution:\
 &#x20; \- 1% marketing & buybacks\
 
 
-| Tokenomics                      | Supply distribution                                        |
+| **Tokenomics**                  | **Supply distribution**                                    |
 | ------------------------------- | ---------------------------------------------------------- |
 | 10% tax distributed as follows: | <p>50%<br>Liquidity</p>                                    |
 |  5% $TLOS reflection            | <p>45%<br>Ecosystem Growth, Partnerships, Staking, etc</p> |
