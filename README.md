@@ -15,5 +15,5 @@ Ploutus is a reflection token on the Telos network.
 |  1% marketing & buybacks        |                                                            |
 
 
-**Stay Tuned**
+**Stay Tuned**  
 we will update the website about upcoming featues, utilities etc.
