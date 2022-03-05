@@ -2,18 +2,9 @@
 
 **Welcome to ploutus**
 
-Ploutus is a reflection token on the Telos network.
+Ploutus is the first Telos reflection token that rewards all token holders with $TLOS straight to their wallets, automatically increasing holders' wealth over time.
 
-**The basics:**
-
-| **Tokenomics**                  | **Supply distribution**                                    |
-| ------------------------------- | ---------------------------------------------------------- |
-| 10% tax distributed as follows: | <p>50%<br>Liquidity</p>                                    |
-|  5% $TLOS reflection            | <p>45%<br>Ecosystem Growth, Partnerships, Staking, etc</p> |
-|  3% Liquidity pool              | <p>5%<br>Team (Locked for 3 months)</p>                    |
-|  1% towards burn                |                                                            |
-|  1% marketing & buybacks        |                                                            |
-
+Named after the Greek God of Wealth, $PLOU is the next generation deflationary, liquidity generating token built to maximize one's wealth through staking combined with reflections, games and innovative usecases.  
 
 **Stay Tuned**  
 we will update the website about upcoming featues, utilities etc.
