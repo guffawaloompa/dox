@@ -4,11 +4,11 @@
 
 {% tabs %}
 {% tab title="Reflections" %}
-Text tab#1T
+Text tab #1
 {% endtab %}
 
 {% tab title="Staking" %}
-Text tab #2\
+Text tab #2
 
 {% endtab %}
 {% endtabs %}
