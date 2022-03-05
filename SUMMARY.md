@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Token Utility](utilities/basic.md)
-* [Getting started](basic-need-to-know-stuff/README.md)
+* [Getting started](getting-started/README.md)
 * [Roadmap](roadmap/README.md)
