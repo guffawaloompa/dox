@@ -3,5 +3,5 @@
 * [Introduction](README.md)
 * [Token Utility](utilities/basic.md)
 * [Getting started](getting-started/README.md)
-  * [Page 1](getting-started/page-1.md)
+  * [TELOS](getting-started/The-telos-blockchain.md)
 * [Roadmap](roadmap.md)
